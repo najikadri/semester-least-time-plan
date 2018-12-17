@@ -1,0 +1,11 @@
+Course Name,Section,Type,CRN,Days,Start Time,End Time,Linked CRNs,Link Required
+MATH 201,B1,lecture,112440,MWF,9:00,9:50,112441-112442,true
+MATH 201,1,lab,112441,T,8:00,8:50, ,false
+MATH 201,2,lab,112442,R,9:00,9:50, ,false
+MATH 201,B2,lecture,112443,MWF,10:00,10:50,112444-112445,true
+MATH 201,3,lab,112444,M,8:00,8:50, ,false
+MATH 201,4,lab,112445,W,9:00,9:50, ,false
+CMPS 211,1,lecture,126800,MWF,9:00,9:50, ,false
+CMPS 211,2,lecture,126805,MWF,11:00,11:50, ,false
+ENGL 203,1,lecture,312210,MWF,8:00,8:50, ,false
+ENGL 203,2,lecture,312211,MWF,13:00,13:50, ,false
